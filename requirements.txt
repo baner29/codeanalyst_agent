@@ -1,0 +1,4 @@
+python-dotenv
+google-cloud-aiplatform
+google-adk
+# Note: google-adk is assumed. Verify the correct package name for your environment if needed.
